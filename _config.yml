@@ -10,14 +10,12 @@ last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 aux_links:
-  "Group":
+  "Restaurant":
+    - "https://www.roblox.com/games/576787046/SizzleBurger-Restaurant"
+  "Application Center":
     - "https://www.roblox.com/games/456009291/Apply-for-a-Job-at-SizzleBurger"
-  "Store":
-    - "https://www.roblox.com/games/539960592/BloxStreet-Shopping"
   "Training Center":
-    - "https://www.roblox.com/games/624472608/Training-Center"
-  "Quiz Center":
-    - "https://www.roblox.com/games/652098479/Quiz-Center"
+    - "https://www.roblox.com/games/453839154/Training-Center"
 
 color_scheme: dark
 
