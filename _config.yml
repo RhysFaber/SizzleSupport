@@ -1,7 +1,7 @@
 title: SizzleSupport
 description: Support website for SizzleBurger
 baseurl: "/"
-url: "https://sizzle.burger.support"
+url: https://rhysfaber.github.io/SizzleSupport
 
 back_to_top: true
 back_to_top_text: "Back to top"
